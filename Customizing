@@ -1,0 +1,19 @@
+sudo apt install neofetch
+
+sudo apt install lolcat 
+
+Go into your home directory and type:
+
+ls -a 
+
+nano .bashrc
+
+Go to the last line and write commands you want to start with wsl kali
+
+(For example) neofetch | lolcat
+
+I recommand to type 
+
+touch .hushlogin 
+
+Enjoy your customized kali hackers!
